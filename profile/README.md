@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MetabolicXploration)](https://github.com/MetabolicXploration/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?org=MetabolicXploration)](https://github.com/MetabolicXploration/github-readme-stats)
 
 ## Hi there 👋
 
